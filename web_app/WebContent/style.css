@@ -1,0 +1,15 @@
+h2, h3{
+	font-family:"¸¼Àº°íµñ";
+	color:#00FFFF;
+	text-align:right;
+}
+
+.testclass{
+	color:red;
+	text-align:center;
+}
+
+#testid{
+	color:purple;
+	text-align:right;
+}
